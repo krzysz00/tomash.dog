@@ -1,3 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tomash.dog/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Tomash'
+theme = 'maddybook'
+disablePathToLower = true
+
+[pagination]
+    path = ""
+
+[permalinks]
+    post = '/:contentbasename/'
+
+[params]
+    author = "Tomash"
+    home = "http://tomash.dog/"
+
+[markup.goldmark.renderer]
+    unsafe = true
