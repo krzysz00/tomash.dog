@@ -1,6 +1,6 @@
 baseURL = 'https://tomash.dog/'
 locale = 'en-us'
-title = 'Tomash'
+title = "Tomash's Doghouse"
 theme = 'maddybook'
 disablePathToLower = true
 
