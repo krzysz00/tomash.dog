@@ -1,0 +1,8 @@
+{{ $tipJar := $.TipJar | default false }}
+<div class="gpt">
+    {{ if and ($tipJar) (site.Params.tipJar) }}
+        <p>Enjoying the online version? Excellent! I make most of my writing free-to-read in the browser, but if you'd like to leave a tip, you can do so over at <a href="{{ site.Params.tipJar.link }}" target="_blank">{{ site.Params.tipJar.name | plainify }}</a>.</p>
+    {{ end }}
+    <p>Published on: {{ .PublishDate | time.Format "2006-01-02" }}</p>
+    <p>This work is licenced under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0</a></p>
+</div>

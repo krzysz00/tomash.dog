@@ -12,6 +12,7 @@ disablePathToLower = true
 
 [params]
     author = "Tomash"
+    copyright = "[year unset]"
     home = "http://tomash.dog/"
 
 [markup.goldmark.renderer]
