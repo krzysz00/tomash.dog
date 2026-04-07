@@ -1,7 +1,7 @@
 {{ $isStory := or (eq .Type "story") (eq .Type "chapter") }}
 <footer><small>
     <p>&copy;
-        <a href="{{ .Site.Params.home }}">{{ .Site.Params.author }}</a>
+        <a href="{{ .Site.Params.home }}">Tomash</a>
         {{ if $isStory }}
           {{ .Date.Format "2006" }}
         {{ else }}
