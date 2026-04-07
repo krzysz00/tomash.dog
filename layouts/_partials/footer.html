@@ -1,0 +1,25 @@
+{{ $isStory := or (eq .Type "story") (eq .Type "chapter") }}
+<footer><small>
+    <p>&copy;
+        <a href="{{ .Site.Params.home }}">{{ .Site.Params.author }}</a>
+        {{ if $isStory }}
+          {{ .Date.Format "2006" }}
+        {{ else }}
+          {{ .Site.Params.copyright }}
+        {{ end }}
+        and released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0+</a>
+    </p>
+    {{ if .Params.other_url }}
+        This work may also be found at <a href="{{ .Params.other_url }}">an alternate location</a>.
+    {{ end }}
+    {{ if $isStory }}
+        <p>
+            Published on: {{ .Date.Format "2006-01-02" }}
+        </p>
+    {{ end }}
+</small></footer>
+<script src="/js/footnotes.js"></script>
+<script src="/js/nav-highlight.js"></script>
+{{ range .Site.Params.customJS }}
+    <script src="{{ . }}"></script>
+{{ end }}

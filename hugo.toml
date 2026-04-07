@@ -11,8 +11,7 @@ disablePathToLower = true
     post = '/:contentbasename/'
 
 [params]
-    author = "Tomash"
-    copyright = "[year unset]"
+    copyright = "Tomash 2026"
     home = "http://tomash.dog/"
 
 [markup.goldmark.renderer]
