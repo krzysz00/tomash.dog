@@ -3,6 +3,7 @@ type: story
 title: What Can't Fit In The Contract
 author: Tomash
 date: 2026-04-06
+summary: The ruminations of a man who gave up his humanity for his country, and isn't sure how he feels about it.
 other_url: https://archiveofourown.org/works/82632811
 ---
 

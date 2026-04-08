@@ -1,10 +1,11 @@
 ﻿---
+type: story
 title: The Party
 author: Tomash
-character: Scout At The Party III — 2323
-type: story
 date: 2024-02-12 00:00:00Z
+character: Scout At The Party III — 2323
 other_url: https://post-self.ink/stories/the-party/
+summary: The Party *never* stops.
 ---
 
 The Party never stops.

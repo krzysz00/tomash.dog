@@ -1,0 +1,18 @@
+.authors-note {
+    border: 2px dotted darkgray;
+    font-size: 14pt;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.dark-mode .authors-note {
+    border: 2px dotted lightgray;
+}
+
+.authors-note:before {
+    display: block;
+    content: "Author's Note";
+    font-weight: bold;
+}

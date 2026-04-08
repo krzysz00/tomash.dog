@@ -1,21 +1,116 @@
 ### Original Work
-- title: What Can't Fit In The Contract
-  url: /writing/what-cant-fit-in-the-contract
+- atPage: /writing/what-cant-fit-in-the-contract
   collection: original-works
   type: short story
-  authors:
-    - Tomash
-  description: The ruminations of a man who gave up his humanity for his country, and isn't sure how he feels about it.
+
+- atPage: /writing/turing-home
+  collection: original-works
+  type: short story
 
 ### Post-Self
-- title: The Party
-  url: /writing/the-party
+
+- atPage: /writing/coffee-leak
+  image: /art/thumbs/coffee-leak.png
+  alt: "Tomash, wearing a systech vest running past a grocery store on a glitchy urban street."
   collection: post-self
   type: short story
-  authors:
-    - Tomash
+
+- atPage: /writing/the-party
+  collection: post-self
+  type: short story
+
+- atPage: /writing/the-party-at-the-end-of-the-world
+  parent: The Party
+  type: short story
+
+- atPage: /writing/hunting-dogs
+  collection: post-self
+  type: short story
   characters:
-    - Scout At The Party III
-  years:
-    - 2323
-  description: The Party *never* stops.
+    - Tomash
+    - Scout By The Washes-Away-Paintings Beach
+
+- atPage: /writing/abandoned-highway
+  collection: post-self
+  type: short story
+
+- atPage: /writing/finding-yourself
+  collection: post-self
+  type: scene
+
+- atPage: /writing/foreign-holidays
+  collection: post-self
+  type: short story
+  characters:
+    - Tycho Brahe
+    - Stolon
+
+- atPage: /writing/goose-on-a-beach
+  collection: post-self
+  type: short story
+  characters:
+    - A horrible goose
+    - Scout By The Washes-Away-Paintings Beach
+
+- atPage: /writing/the-error-bell
+  collection: post-self
+  type: short story
+
+- atPage: /writing/arise-to-oath-and-office
+  collection: post-self
+  type: short story
+  characters:
+    - Tomash
+    - Scout In Springfield Village Square
+
+- atPage: /writing/grapevines-of-war
+  collection: post-self
+  type: short story
+
+- atPage: /writing/memorial
+  collection: post-self
+  type: short story
+
+- atPage: /writing/route-227
+  collection: post-self
+  type: short story
+
+### PPC
+
+- atPage: /writing/pager-duty
+  collection: ppc
+  type: interlude
+  characters:
+    - Technician Tomash
+
+- atPage: /writing/the-heir-of-the-phoenix
+  collection: ppc
+  type: mission
+  characters:
+    - Agent Peregrin
+    - Agent Taq
+
+- atPage: /writing/trade-routes
+  collection: ppc
+  type: interlude
+  characters: Aulhar Tauran
+
+- atPage: /writing/trade-routes
+  collection: ppc
+  type: short story
+  characters:
+    - Aulhar Tauran
+
+### Post-Self flash
+
+- atPage: /writing/estimates
+  collection: post-self-flash
+  type: short story
+
+- atPage: /writing/ever-upward
+  collection: post-self-flash
+  type: short story
+
+- atPage: /writing/internationalization
+  collection: post-self-flash
+  type: short story
