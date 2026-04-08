@@ -18,3 +18,8 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
     unsafe = true
+
+## For GitHub pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
