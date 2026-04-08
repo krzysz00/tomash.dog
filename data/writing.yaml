@@ -1,12 +1,30 @@
 ### Original Work
-- atPage: /writing/what-cant-fit-in-the-contract
+- title: Role Reversal
+  url: /writing/role-reversal/
   collection: original-works
-  type: short story
+  type: short Stories
+  summary: A man and his dog trade places. Fairly fluffy petplay ensues.
 
 - atPage: /writing/turing-home
   collection: original-works
   type: short story
 
+- atPage: /writing/down-to-earth-sled-dog-tours
+  collection: original-works
+  type: fictional tour signup
+  image: /art/thumbs/down-to-earth-sled-dog-tours.png
+  alt: "A series of sketches of a man getting turned into a malamute and working as a sled dog"
+
+
+- atPage: /writing/what-cant-fit-in-the-contract
+  collection: original-works
+  type: short story
+
+- title: Care of Formerly Human Dogs (FHDs)
+  url: https://bsky.app/profile/scoutthegooddog.bsky.social/post/3mg56rhzsvk2g
+  author: Tomash
+  collection: original-works
+  type: fictional Bluesky thread
 ### Post-Self
 
 - atPage: /writing/coffee-leak
@@ -33,10 +51,6 @@
 - atPage: /writing/abandoned-highway
   collection: post-self
   type: short story
-
-- atPage: /writing/finding-yourself
-  collection: post-self
-  type: scene
 
 - atPage: /writing/foreign-holidays
   collection: post-self
@@ -75,6 +89,16 @@
   collection: post-self
   type: short story
 
+### Post-Self Kink
+
+- atPage: /writing/adoption
+  collection: post-self-kink
+  type: short story
+
+- atPage: /writing/having-been-dogs
+  collection: post-self-kink
+  type: short story
+
 ### PPC
 
 - atPage: /writing/pager-duty
@@ -97,11 +121,28 @@
 
 - atPage: /writing/trade-routes
   collection: ppc
-  type: short story
+  type: interlude
   characters:
     - Aulhar Tauran
 
+- atPage: /writing/cross-tree
+  collection: ppc
+  type: interlude
+  characters:
+    - Technician Tomash
+    - PPC!Post-Self!Tomash
+
+- atPage: /writing/twenty-three-billion--six
+  collection: ppc
+  type: interlude
+  characters:
+    - PPC!Post-Self!Tomash
+
 ### Post-Self flash
+
+- atPage: /writing/behind-coffeeshops
+  collection: post-self-flash
+  type: short story
 
 - atPage: /writing/estimates
   collection: post-self-flash
@@ -111,6 +152,14 @@
   collection: post-self-flash
   type: short story
 
+- atPage: /writing/finding-yourself
+  collection: post-self-flash
+  type: scene
+
 - atPage: /writing/internationalization
   collection: post-self-flash
   type: short story
+
+- atPage: /writing/wontfix
+  collection: post-self-flash
+  type: scene

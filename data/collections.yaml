@@ -4,6 +4,12 @@
 - id: post-self
   title: "[Post-Self](https://post-self.ink/)"
 
+- id: post-self-kink
+  title: Post-Self kink
+  description: >
+    Stories set in the Post-Self universe intended for a planned kink anthology
+    and published here to make them easy to read in the meantime.
+
 - id: ppc
   title: "[Protectors of the Plot Continuum](https://plotprotectors.org/)"
 

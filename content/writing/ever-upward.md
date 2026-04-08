@@ -6,7 +6,7 @@ date: 2024-09-18
 character: Charlie Evans — 2367
 other_url: https://archiveofourown.org/works/59032726
 summary: One of the System's mountain climbers has had a good run over these last two hundred years and is ready for what's next.
-cw: suicide
+cw: Suicide (not detailed)
 ---
 As Charlie crested the last ridge, stepping out onto an intentionally
 crisp, calm, sunny summit from an equally intentional slog through a
