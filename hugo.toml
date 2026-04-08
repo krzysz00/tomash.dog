@@ -12,7 +12,7 @@ disablePathToLower = true
 
 [params]
     copyright = "2026"
-    home = "http://tomash.dog/"
+    home = "https://tomash.dog/"
     headline = "Writings of a dog-person on the the internet"
     customCSS = ['/css/doghouse.css']
 
