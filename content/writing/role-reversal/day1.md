@@ -2,8 +2,11 @@
 title: Role Reversal
 subtitle: Day 1
 date: 2024-07-07
+weight: 0
 other_url: https://archiveofourown.org/works/31992673/chapters/145496839#workskin
 ---
+### Day 1
+
 Tom woke up to the sound of kibble hitting a bowl. *That’s weird,* he thought, *how’s Scout getting fed? What’s that silly little rascal up to?*
 
 He uncurled … wait, uncurled? Was that whole thing where Scout got three wishes and turned him into a … pet human or something  …  not just a weird dream? He felt around his body and — yep, the changes were there like he remembered. Shorter limbs, a more snout-like face with a longer tongue, warmth as if he had fur even though he didn’t (which explained why he was on the blankets and not under them) — it was all there, and so he was probably set up to scamper about on all fours like he remembered from last night. Feeling around his neck, he confirmed that he was wearing a collar, complete with name tag.

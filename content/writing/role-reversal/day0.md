@@ -2,8 +2,11 @@
 title: Role Reversal
 subtitle: Day 0
 date: 2021-06-17
+weight: 1
 other_url: https://archiveofourown.org/works/31992673/chapters/79241950#workskin
 ---
+### Day 0
+
 "Scout?" Tom asked, looking over at the back door confused. He'd sat up on the couch when he heard the back door open, and then blinked when he saw his dog walking through the door on... two legs? "That you, boy?"
 
 What happened next left Tom wondering if he wasn't dreaming. "Yeah, it's me\!" Scout said, running over to the couch, his tail wagging. "I got three wishes\!"
