@@ -5,7 +5,7 @@ author: Tomash
 character: Tomash — 2299
 date: 2024-02-12
 other_url: https://post-self.ink/stories/coffee-leak/
-sumary: Not every object works quite as you expect it to. (One of the first stories to flesh out systechs.)
+summary: Not every object works quite as you expect it to. (One of the first stories to flesh out systechs.)
 ---
 
 <style>
