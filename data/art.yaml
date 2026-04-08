@@ -1,0 +1,31 @@
+- title: Scout's refsheet
+  url: /art/refsheet.png
+  authors:
+    - Dulce Skull
+  image: /art/thumbs/refsheet.png
+  alt: An art reference of the author's fursona, a golden-brown dog-person with short fur.
+  description: My refsheet
+
+- title: Art for *Ceffee Leak*
+  url: /art/coffee-leak.png
+  authors:
+    - Roxanna
+  image: /art/thumbs/coffee-leak.png
+  alt: "Tomash, wearing a systech vest running past a grocery store on a glitchy urban street."
+  description: "Art of the Post-Self version of Tomash to go with the story [\"Coffee Leak\"](/writing/coffee-leak)"
+
+- title: Compiler Development
+  url: /art/compiler-development.png
+  authors:
+    - NovaArtisan
+  image: /art/thumbs/compiler-development.png
+  alt: "An anthro dog trying to hold anto a wild dragon based on the LLVM logo"
+  description: "Me at the day job --- holding on to the LLVM dragon for dear life"
+
+- title: Sticker Pack
+  url: /art/stickers1.png
+  authors:
+    - bean_b4
+  image: /art/thumbs/stickers1.png
+  alt: "A sticker pack wit my fursona making several expressions"
+  description: "A sticker pack for my fursona"
