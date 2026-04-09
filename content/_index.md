@@ -14,3 +14,5 @@ You can find me on
 - [AO3 as Tomash](https://archiveofourown.org/users/Tomash), where I keep most of my writing
 - [FurAffinity as Scout05](https://www.furaffinity.net/user/scout05/), where I keep my art commissions
 - [Bluesky as @scoutthegooddog.bsky.social](https://bsky.app/profile/scoutthegooddog.bsky.social), where I post sometimes
+
+<small>Thanks to Makyo's [maddybook theme](https://github.com/makyo/maddybook/) for making this site look as nice as it does!</small>
