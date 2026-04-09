@@ -1,4 +1,4 @@
-baseURL = 'https://tomash.dog/'
+baseURL = 'https://www.tomash.dog/'
 locale = 'en-us'
 title = "Tomash's Doghouse"
 theme = 'maddybook'
@@ -12,7 +12,7 @@ disablePathToLower = true
 
 [params]
     copyright = "2026"
-    home = "https://tomash.dog/"
+    home = "https://www.tomash.dog/"
     headline = "Writings of a dog-person on the the internet"
     customCSS = ['/css/doghouse.css']
 
