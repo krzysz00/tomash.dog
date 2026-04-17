@@ -51,7 +51,7 @@ It was times like these, especially when his mission that day hadn’t gone well
 
 The death benefit.
 
-See, the degree to which becoming an engineered mine-clearer — a mine dog — was that it was so dramatic a change in what Sebastian could do with his life that the Army paid out death benefits to his family the moment he went under the knife. And if he were to die out here, there’d be a second benefit.
+See, the becoming an engineered mine-clearer — a mine dog — was so dramatic a change in what Sebastian could do with his life that the Army paid out death benefits to his family the moment he went under the knife. And if he were to die out here, there’d be a second benefit.
 
 Fundamentally, while the war was over, the economic damage was not.
 
