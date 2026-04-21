@@ -124,5 +124,5 @@ But had it all been worth it? Sebastian never could decide when he came to the t
 He always had, after all.
 
 <div class="authors-note">
-This story has recieved a small post-publication edit to reflect the fact that Morse code exists and could be used by mine dogs.
+This story has received a small post-publication edit to reflect the fact that Morse code exists and could be used by mine dogs.
 </div>
