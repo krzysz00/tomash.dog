@@ -29,7 +29,7 @@ The solution was to take the humans who signed up for this and grow them a new b
 
 Sebastian had made it through the surgeries and the training, and now worked in his team of ten, sniffing out the sensors and traces that scarred his homeland, that had rendered the forest he’d known as a child into a death trap, and dug them up or bit through them. It was hard work, it was dangerous work (he’d seen someone from one of the other teams missing a leg), but it was important work. He’d put his life on the line to save the country from a war the paperwork said was already over, and he mostly knew what it would cost him.
 
-Sebastian knew that the Army was making a serious effort to deal with what they’d created. He had ways to write and send messages, now that he had neither a voice or hands. The officers above him even did their best to take complaints seriously (he remembered when they’d gotten new vests once someone had pointed out that the zippers were tricky to open in the field).
+Sebastian knew that the Army was making a serious effort to deal with what they’d created. He had ways to “talk” (howling Morse code, with plenty of shorthand, for talking to other dogs and those who worked closely with them, and books of words, letters, and symbols to point at for everyone else), now that he had neither a voice or hands. The officers above him even did their best to take complaints seriously (he remembered when they’d gotten new vests once someone had pointed out that the zippers were tricky to open in the field).
 
 On top of that, he, like all those like him, had handlers assigned to them to see to all the minutia of daily life that had become more difficult. Sure, he could get his own food with a scoop held in his mouth, but it worked better for everyone (and didn’t cause chaos in or require redesigns of the mess hall) if someone else got it for him.
 
@@ -87,7 +87,7 @@ One such little problem was that his commute could be tricky. He needed to take 
 
 As he waited around, Sebastian gave the ground near his feet a sniff, just in case there was a trail of explosive or metallic scent under the ground. There wasn’t, but it was hard to shake the habit, especially when passing trucks sometimes reminded him of his old work.
 
-Another source of annoyance was people. Looking like a dog led to a lot of people trying to pet him as he walked down the street, and the average man on the street was even worse than the average private at reading the vest he was wearing. Him often being alone during the day didn’t help. Back in the Army, he’d gotten quite used to his pack and the other mine dogs. Sure, he hadn’t been able to talk to them, but they’d gotten to know each other and, when they were in groups, had gotten pretty good at replacing the hands they no longer had with a tangle of snouts and paws.
+Another source of annoyance was people. Looking like a dog led to a lot of people trying to pet him as he walked down the street, and the average man on the street was even worse than the average private at reading the vest he was wearing. Him often being alone during the day didn’t help. Back in the Army, he’d gotten quite used to his pack and the other mine dogs. They’d gotten to know each other well despite their trouble forming words, and, when they were in groups, had gotten pretty good at replacing the hands they no longer had with a tangle of snouts and paws.
 
 Now, everyone had scattered, and the only one of his packmates he saw regularly was Janek. Fortunately, the man’s snoring didn’t carry down the hall as much as it did in the kennels back on base. Most nights, Sebastian didn’t even notice it. And while there were other de-miners around in the city, he didn’t know them all that well, and not all of them lived close by.
 
@@ -103,9 +103,9 @@ Most apartments wouldn’t work for him — they were designed for humans, and t
 
 So, Sebastian had spent over a year in rather permanent temporary quarters: some cleaned-out space at a city animal shelter.
 
-The army wing of the shelter, as it had come to be known, was a place that Sebastian, Janek, and the other de-mining dogs who didn’t have anywhere else to go could live and could wander in and out of as they liked. Just like the handlers back in the Army had, the shelter staff helped out with all those parts of daily life that required hands and did a decent job not being condescending about it, and they’d never tried to take him on a walk like he was back in basic training.
+The army wing of the shelter, as it had come to be known, was a place that Sebastian, Janek, and the other de-mining dogs who didn’t have anywhere else to go could live. Just like the handlers back in the Army had, the shelter staff helped out with all those parts of daily life that required hands and did a decent job not being condescending about it, and they’d never tried to take him on a walk like he was back in basic training.
 
-The area had been spruced up with some fraction of the money the Veterans’ Affairs people had sent over for that purpose. He and the other dogs had ways to communicate, more or less, and could, if needed, just walk out to get to work or appointments or whatever they needed. A lot of creative work had been done to give him and his fellows ways to entertain themselves that didn’t involve tearing the place apart or violence. Some dogs from another pack had started up a poker night, for instance.
+The area had been spruced up with some fraction of the money the Veterans’ Affairs people had sent over for that purpose. He and the other dogs could just walk out to get to work or appointments or whatever they needed, and still had their word-books. Some of the shelter staff were even picking up Morse code to make communicating with the dogs easier. A lot of creative work had been done to give him and his fellows ways to entertain themselves that didn’t involve tearing the place apart or violence. Some dogs from another pack had started up a poker night, for instance.
 
 On one hand, this was a more pleasant place to live than the concrete shed the Army had thrown together once it had become clear that transforming people into therioform mine-clearance specialists was a viable plan. On the other hand … it was the animal shelter. Even though a chorus of barking dogs and meowing cats wasn’t as bad as fighter jets, it was still hard to sleep.
 
@@ -122,3 +122,7 @@ He knew he always got like this in the cold. He’d been like that in the Army t
 But had it all been worth it? Sebastian never could decide when he came to the topic. So he let his pride and regret swirl around while he listened for his stop, knowing that he’d feel better once he’d gotten some warmth and sleep.
 
 He always had, after all.
+
+<div class="authors-note">
+This story has received a small post-publication edit to reflect the fact that Morse code exists and could be used by mine dogs.
+</div>
