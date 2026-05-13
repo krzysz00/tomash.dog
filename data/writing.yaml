@@ -12,6 +12,14 @@
 - atPage: /writing/what-cant-fit-in-the-contract
   collection: original-works
   type: short story
+  characters:
+    - Sebastian
+
+- atPage: /writing/the-benefits-of-howling-at-coworkers
+  parent: What Can't Fit In The Contract
+  type: short story
+  characters:
+    - Sebastian
 
 - atPage: /writing/down-to-earth-sled-dog-tours
   collection: original-works
