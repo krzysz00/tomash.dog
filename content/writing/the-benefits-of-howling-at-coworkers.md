@@ -1,6 +1,6 @@
 ---
 type: story
-title: The Benefits of Howling at Coworkers
+title: The Benefits Of Howling At Coworkers
 author: Tomash
 date: 2026-05-13
 other_url: https://archiveofourown.org/works/84807746
